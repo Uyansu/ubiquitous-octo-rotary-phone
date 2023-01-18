@@ -1,3 +1,5 @@
 neuer anlauf 
 primzahlen hatte ich soviele aufgezählt, jetzt sind sie alle weg und ich bin zu faul um sie wieder erneut aufzuzählen. Ich  hoffe meine Rechtschreibung ist einigermaßen in ordnung, wenn nicht auch egal :D 
 ich hatte übrigens auch die fibonacci reihe bis 233 aufgezählt, auch das ist jetzt weg :(
+
+jetzt ergänze ich wieder irgendwas und versuche das auf github durch git Bash zuaktualisieren, bin gespannt ob ich es schaffe.
